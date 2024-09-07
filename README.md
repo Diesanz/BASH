@@ -1,4 +1,4 @@
-Simple Shell
+Simple Shell.
 Este proyecto es una implementación básica de una shell en C. La shell soporta comandos internos, como cd y exit, y comandos externos, además de redirección de salida.
 
 Características
